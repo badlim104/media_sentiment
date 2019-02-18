@@ -23,20 +23,11 @@ Code to calculate the cosine distances between 1400 NYT and 22322 Reuters articl
 #### Keyword_Distances_141018.ipynb:
 Code to calculate the cosine distances between 1400 NYT and 22322 Reuters article keywords. 
 
-#### big_df.pkl: 
-Dataframe that contains all 31250800 article pairs with their associated title, article and keyword distances
-
 #### Checking_Close_Articles.ipynb:
 Code to get the NYT and Reuters article pairs with n=10 using big_df
 
-#### close_articles_df.csv:
-Contains pairs of NYT and Reuters articles with n=5 (for more explanation on what n stands for, please refer to the original paper) 
-
 #### close_articles_df1.csv:
 Contains pairs of NYT and Reuters articles with n=10
-
-#### title_distances.pkl:
-Contains cosine distances between all 1400 NYT and 22322 Reuters titles in a 1400 by 22322 matrix. 
 
 #### Get_Titles_for_Reuters.ipynb:
 Code to get the titles for the Reuters articles and store them in pickled files.
