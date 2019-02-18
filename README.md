@@ -26,7 +26,7 @@ Code to calculate the cosine distances between 1400 NYT and 22322 Reuters articl
 #### Checking_Close_Articles.ipynb:
 Code to get the NYT and Reuters article pairs with n=10 using big_df
 
-#### Close_Articles.csv:
+#### close_articles_df1.csv:
 Contains pairs of NYT and Reuters articles with n=10
 
 #### Get_Titles_for_Reuters.ipynb:
