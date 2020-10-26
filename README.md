@@ -3,7 +3,7 @@ Comparative sentiment analysis of various news outlets
 #### Descriptions of the files:
 
 #### 20180516-20180621_reuters_unique.csv:
-Unique Reuters articles and their associated attributes for the given date range. All distance calculations are made using the contents this file. 
+Unique Reuters articles and their associated attributes for the given date range. All distance calculations are made using the contents of this file. 
 
 #### nyt_uniques_topicsLabeled.csv: 
 Unique NYT articles with labeled sections. They were published in the same date range as the Reuters articles were. All distances calculations are made using the contents of this file. 
